@@ -34,8 +34,7 @@ group.1_group.1_group.property.value=false
 
 group.2_group.path=/content/we-retail/us/en
 group.2_group.1_group.daterange.property=@jcr:content/offTime
-group.2_group.1_group.daterange.lowerBound=2021-07-28
-group.2_group.1_group.daterange.lowerOperation=>=
+group.2_group.1_group.daterange.lowerBound=2021-07-28T19:18:59.845561
 group.2_group.1_group.1_property=@jcr:content/cq:template
 group.2_group.1_group.1_property.1_value=/conf/we-retail/settings/wcm/templates/product-page
 group.2_group.1_group.2_property=@jcr:content/contentType

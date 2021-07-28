@@ -1,4 +1,4 @@
-Sample group query
+To fetch only those pages which are not expired.
 =========
 
 ### Tool

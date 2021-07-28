@@ -1,2 +1,2 @@
 # aem-cheatsheet
-AEM specific important notes
+AEM specific notes

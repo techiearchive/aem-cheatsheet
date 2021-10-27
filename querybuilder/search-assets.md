@@ -33,3 +33,19 @@ group.1_group.2_property.value=Activate
 group.1_group.3_property=@jcr:content/metadata/dc:site-nodes
 group.1_group.3_property.operation=exists
 ```
+
+### OR
+```
+path=/content/dam/we-retail
+type=dam:Asset
+p.limit=-1
+1_property=@jcr:content/metadata/dc:format
+1_property.1_value=application/pdf
+2_property=@jcr:content/cq:lastReplicationAction
+2_property.value=Activate
+3_property=@jcr:content/metadata/dc:site-nodes
+3_property.operation=exists
+group.1_group.p.not=true
+group.1_group.path=/content/dam/we-retail/en/products
+group.1_group.path.self=true
+```

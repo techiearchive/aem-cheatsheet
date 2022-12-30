@@ -1,4 +1,4 @@
-## Two ways to boosting solr search result
+## Two ways to prioritize the solr search result based on fields score
 1. Add priority score value in indexed fields within solr schema.
 2. Add priority score value during search query.
 

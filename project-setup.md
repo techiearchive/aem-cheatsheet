@@ -19,3 +19,5 @@ Maven command to create new AEM cloud project with archetype version 39
 
 [Removing samples from AEM cloud project](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/developing/aem-projects/remove-samples)
 
+[AEM Project Archetype](https://github.com/adobe/aem-project-archetype)
+
